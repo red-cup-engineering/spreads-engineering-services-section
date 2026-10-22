@@ -3,9 +3,13 @@
   "version": "0.1.0",
   "type": "module",
   "description": "Red Cup Science service section for spreads.",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/red-cup-engineering/spreads-services-section.git"
+  },
+  "funding": {
+    "type": "individual",
+    "url": "https://github.com/561-group/.github/blob/main/TIPS.md"
   }
 }
